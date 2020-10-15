@@ -31,8 +31,8 @@ int printArray(int *arr, int size){
     return 0;
 }
 
-void main(){
-    int arr[10] = {10, 1, 12, 13, 4, 6, 9, 11, 20, 21};
-    quickSort(arr, 0, 9);
-    printArray(arr, 10);
-}
+// void main(){
+//     int arr[10] = {10, 1, 12, 13, 4, 6, 9, 11, 20, 21};
+//     quickSort(arr, 0, 9);
+//     printArray(arr, 10);
+// }
